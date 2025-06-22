@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499085502499",
+    "project_id": "grovia-cf883",
+    "storage_bucket": "grovia-cf883.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499085502499:android:b6720478dac1244aa12996",
+        "android_client_info": {
+          "package_name": "com.example.grovia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwDU2UxZPsWQSII2kaomUP00pFHD3n9V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
